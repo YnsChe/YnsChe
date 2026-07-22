@@ -1,5 +1,5 @@
 # Hi, I'm Youness 👋
-I'm a Computer Science student with over three years of experience in IT Support. I'm passionate about IT Security, Linux, Networking and modern IT Infrastructure. Besides university, I build personal projects and complete hands-on labs to better understand how secure systems are designed, operated and protected.
+I'm a Computer Science student passionate about IT Security, Linux, Networking and modern IT Infrastructure. Besides university, I build personal projects and complete hands-on labs to better understand how secure systems are designed, operated and protected.
 
 # Education
 - 💻 B.Sc. Computer Science @Fh-Muenster, Germany (Final Semester)
