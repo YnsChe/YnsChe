@@ -8,7 +8,7 @@ I'm a Computer Science student passionate about IT Security, Linux, Networking a
 ## What I'm working on
 - 🔐 Secure Authentication API (FastAPI, JWT, OAuth2, SQLite)
 - 🌐 Network Traffic Analyzer (coming soon)
-- 
+  
 ## Tech stack
 - Languages: C, Python, Java, JavaScript/TypeScript 
 - Tools: Git, Ghidra, Hydra, Nmap, Wireshark, GDB, radare2
